@@ -1,0 +1,7 @@
+instance:
+    MaxCount: 1
+    MinCount: 1
+    KeyName: dev-key
+    ImageId: ami-123456789
+    InstanceType: t2-micro
+    SubnetId: subnet-12345678
