@@ -12,3 +12,5 @@ This script demonstrates using the AWS SDK Boto3 python library to deploy an EC2
 - Activate the new virtual environment `source venv/bin/activate`
 - Install the required python packaged from requirements.txt `pip install -r requirements.txt` This was created using `pip freeze > requirements.txt`
 - Run the script to deploy an EC2 `./main.py`
+
+
